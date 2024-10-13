@@ -27,7 +27,8 @@ Random selection of co-occurring word-referent pairs during training led to vari
 Expected the conditions with fewer word-referent pairs (i.e., the 9-word conditions) were anticipated to improve learning performance due to reduced ambiguity and increased frequency of exposure to each word-referent pairing compared to the condition with 18 word-referent pairs.
 ### Appendices
 1. Extend audio & image stimuli
-2. add eyetracking
+The NOUN database: http://www.sussex.ac.uk/wordlab/noun
+3. add eyetracking
 
 
 <!DOCTYPE html>
