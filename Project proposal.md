@@ -35,7 +35,7 @@ One of the primary challenges will be setting up a user-friendly website to cond
 Another challenge involves the effort required to match pseudowords with their corresponding images and audio files accurately. Creating a coherent and engaging user experience will necessitate meticulous attention to detail, including verifying that each audio clip is correctly aligned with its respective image. This process will require extensive testing to ensure that the pairing of words, images, and sounds is intuitive for participants, minimizing confusion during the learning trials.
 Additionally, incorporating eye-tracking functions presents its own set of challenges. Implementing eye-tracking technology will require specialized software that can accurately capture and analyze participants’ visual attention during the trials. This involves not only selecting appropriate eye-tracking hardware but also ensuring that the testing environment is controlled to minimize external distractions. Developing the necessary protocols for integrating eye-tracking data with learning outcomes will be crucial for obtaining insights into how attention dynamics influence word learning.
 ### Link to the repository and original paper
-
+https://github.com/SHEEPQUEEN422/Junyi2024/blob/4c365ad5ebcd18b8a0453a88d6685bb7940ede91/Project%20proposal.md
 ### Appendices
 1. Extend audio & image stimuli
 The NOUN database: http://www.sussex.ac.uk/wordlab/noun
